@@ -1,0 +1,8 @@
+{
+  "name": "SSH Plugin",
+  "author": "c3t4r4",
+  "version": "1.0.0",
+  "description": "Plugin para ativar e iniciar o SSH no Steam Deck e exibir informações de conexão",
+  "main": "index.js"
+}
+
